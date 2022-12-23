@@ -1,7 +1,7 @@
 <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width= "100%" height="50%">
 <h1 align="center">Hi 👋, I'm Aluko Samuel</h1>
 <hr height="1px"/>
-<h3 align="justify">I am a front-end engineer with over 2 years of experience in the field. I specialize in building beautiful and user-friendly websites and applications using technologies such as HTML, CSS, and JavaScript, reactJs, NextJs,  React Native, Bootstrap, Tailwind CSS, Chackra UI etc.
+<h3 align="justify" font-weight="lighter" font-size="2px">I am a front-end engineer 👨‍💻 with over 2 years of experience in the field. I specialize in building beautiful and user-friendly websites and applications using technologies such as HTML, CSS, and JavaScript, reactJs, NextJs,  React Native, Bootstrap, Tailwind CSS, Chackra UI etc.
 
 I have a strong passion for design and user experience, and I am constantly striving to create visually appealing and intuitive interfaces that make it easy for users to interact with my projects. I am also skilled in responsive design, ensuring that my projects look great on any device.
 
