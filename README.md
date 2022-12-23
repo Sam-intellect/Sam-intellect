@@ -18,7 +18,7 @@ I am constantly learning and staying up-to-date on the latest front-end technolo
 
 <p align="left"> <a href="https://twitter.com/@alukokunlesam" target="blank"><img src="https://img.shields.io/twitter/follow/@alukokunlesam?logo=twitter&style=for-the-badge" alt="@alukokunlesam" /></a> </p>
 
-- 🔭 I’m currently working on [eval360](eval360.app)
+- 🔭 I’m currently working on [eval360.app](eval360.app)
 
 - 🌱 I’m currently learning **React Native**
 
