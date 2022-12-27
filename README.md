@@ -1,13 +1,13 @@
 <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width= "100%" height="50%">
 <h1 align="center">Hi 👋, I'm Aluko Samuel</h1>
 <hr height="1px"/>
-<h3 align="justify" font-weight="lighter" font-size="2px">I am a front-end engineer 👨‍💻 with over 2 years of experience in the field. I specialize in building beautiful and user-friendly websites and applications using technologies such as HTML, CSS, and JavaScript, reactJs, NextJs,  React Native, Bootstrap, Tailwind CSS, Chackra UI etc.
+<h3 align="justify" font-weight="lighter" font-size="2px">As a frontend engineer, I have a strong understanding of HTML, CSS, and JavaScript, as well as a keen eye for design and usability. I am skilled at creating responsive and user-friendly websites and applications that are optimized for performance.
 
-I have a strong passion for design and user experience, and I am constantly striving to create visually appealing and intuitive interfaces that make it easy for users to interact with my projects. I am also skilled in responsive design, ensuring that my projects look great on any device.
+I have experience working with a variety of frontend frameworks and libraries, including React, Angular, and Vue.js, and I am comfortable working with both traditional server-side rendering and modern single-page applications.
 
-In addition to my technical skills, I am a strong problem-solver and have excellent communication skills. I am able to work well in a team environment and have experience collaborating with designers, back-end developers, and other stakeholders to bring projects to life.
+I am a proactive problem-solver and a strong collaborator, able to work effectively with both technical and non-technical team members. I am constantly seeking to improve my skills and stay up-to-date with the latest developments in the frontend field.
 
-I am constantly learning and staying up-to-date on the latest front-end technologies and trends, and I am excited to bring my skills and experience to new challenges and projects.</h3>
+In my previous roles, I have successfully delivered a number of high-quality projects on time and on budget, and I am confident in my ability to do the same for any organization.</h3>
 <hr/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam-intellect&label=Profile%20views&color=0e75b6&style=flat" alt="sam-intellect" /> </p>
