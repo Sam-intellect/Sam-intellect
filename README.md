@@ -3,7 +3,7 @@
 <hr height="1px"/>
 <h3 align="justify" font-weight="lighter" font-size="2px">As a frontend engineer, I have a strong understanding of HTML, CSS, and JavaScript, as well as a keen eye for design and usability. I am skilled at creating responsive and user-friendly websites and applications that are optimized for performance.
 
-I have experience working with a variety of frontend frameworks and libraries, including React, react native and flutter, and I am comfortable working with both traditional server-side rendering and modern single-page applications.
+I have experience working with a of frontend frameworks and libraries, including React, and I am comfortable working with both traditional server-side rendering and modern single-page applications.
 
 I am a proactive problem-solver and a strong collaborator, able to work effectively with both technical and non-technical team members. I am constantly seeking to improve my skills and stay up-to-date with the latest developments in the frontend field.
 
